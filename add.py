@@ -1,4 +1,5 @@
 a=59
 b=9687
-c=a+b
-print(c)
+c=89
+d=a+b+c
+print(d)
